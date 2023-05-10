@@ -50,12 +50,9 @@
          "scope":      "constant.character.escape, constant.other.placeholder",
          "background": "var(dark_green)"},
 
-        // {"name":       "Constants",
-        //  "scope":      "constant",
-        //  "background": "var(magenta)"},
         {"name":       "Constants",
          "scope":      "constant, punctuation.definition.constant",
-         "foreground": "#7A3E9D"},
+         "foreground": "var(magenta)"},
 
         {"name":       "Definitions",
          "scope":      "entity.name - entity.name.tag",
