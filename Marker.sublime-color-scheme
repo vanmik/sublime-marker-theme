@@ -1,6 +1,6 @@
 {
-    "name": "Alabaster",
-    "author": "Nikita Prokopov",
+    "name": "Marker",
+    "authors": ["Nikita Prokopov", "Ivan Mikhailov"],
     "variables":
     {
         "active":    "#007ACC",

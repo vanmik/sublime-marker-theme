@@ -1,6 +1,6 @@
 {
-    "name": "Alabaster Dark",
-    "author": "Nikita Prokopov",
+    "name": "Marker Dark",
+    "authors": ["Nikita Prokopov", "Ivan Mikhailov"],
     "variables":
     {
         "fg": "#CECECE",
